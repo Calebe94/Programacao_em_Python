@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><gamesList>
+	<steamID64>76561198268664618</steamID64>
+	<steamID><![CDATA[Calebe94]]></steamID>
+	<games>
+		<game>
+			<appID>200900</appID>
+			<name><![CDATA[Cave Story+]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200900/a242e0465a65ffafbf75eeb521812fb575990a33.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/200900]]></storeLink>
+			<hoursLast2Weeks>8.4</hoursLast2Weeks>
+			<hoursOnRecord>8.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/CaveStory]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/CaveStory/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>227600</appID>
+			<name><![CDATA[Castle of Illusion]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/227600/cdbc2581c46fa378baa8f48e28513a1668b30941.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/227600]]></storeLink>
+			<hoursLast2Weeks>0.5</hoursLast2Weeks>
+			<hoursOnRecord>2.8</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/227600]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/227600/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>362890</appID>
+			<name><![CDATA[Black Mesa]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/362890/07165fb02e18a4cf544125c1bd350fe300aef362.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/362890]]></storeLink>
+			<hoursLast2Weeks>0.4</hoursLast2Weeks>
+			<hoursOnRecord>2.9</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/362890]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/362890/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>296910</appID>
+			<name><![CDATA[8BitBoy]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/296910/433adcfa3fe73410399d252e059f01c00cd143f4.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/296910]]></storeLink>
+			<hoursOnRecord>0.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/296910]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/296910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>346900</appID>
+			<name><![CDATA[AdVenture Capitalist]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/346900/ba7cd9eb5fe1905f7b5d25835d063437dec7f675.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/346900]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/346900]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/346900/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>317250</appID>
+			<name><![CDATA[Airscape: The Fall of Gravity]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/317250/36b92248033241ce474fd659829883c11b5d0884.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/317250]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/317250]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/317250/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>19680</appID>
+			<name><![CDATA[Alice: Madness Returns]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/19680/16eb0cc15cde07377c0cb3bffa6d92bbc6dd72b2.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/19680]]></storeLink>
+			<hoursOnRecord>3.9</hoursOnRecord>
+		</game>
+		<game>
+			<appID>266430</appID>
+			<name><![CDATA[Anarchy Arcade]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/266430/a244c472ee89a99e186dcc52a371cf497748b204.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/266430]]></storeLink>
+			<hoursOnRecord>0.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/266430]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/266430/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>417890</appID>
+			<name><![CDATA[Apotheon Arena]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/417890/9e467d9e431cf32848b3e563e45ac0f26fb35fff.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/417890]]></storeLink>
+		</game>
+		<game>
+			<appID>317060</appID>
+			<name><![CDATA[Attractio]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/317060/77dec7a6c5c71061cff8476f8de2c1e89f1244e3.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/317060]]></storeLink>
+			<hoursOnRecord>0.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/317060]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/317060/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>200260</appID>
+			<name><![CDATA[Batman: Arkham City GOTY]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/200260/9b229e12fd5ce27bd101d5862c19b1a6e3d01239.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/200260]]></storeLink>
+			<hoursOnRecord>4.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/BatmanArkhamCityGOTY]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/BatmanArkhamCityGOTY/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>209000</appID>
+			<name><![CDATA[Batman™: Arkham Origins]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209000/21a0c80630abe3a9dceddcbc224ed6b5b763c5b9.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/209000]]></storeLink>
+			<hoursOnRecord>0.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/209000]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/209000/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>238460</appID>
+			<name><![CDATA[BattleBlock Theater]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/238460/13380473acaa95f843301b8a21a383790ae384de.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/238460]]></storeLink>
+			<hoursOnRecord>1.6</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/238460]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/238460/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>299360</appID>
+			<name><![CDATA[Block N Load]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/299360/2ee188861393cd114390d623deada1d957227c54.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/299360]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/299360]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/299360/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>291550</appID>
+			<name><![CDATA[Brawlhalla]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/291550/2e73ca87f37414968f7dfa353d3d727dea01faed.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/291550]]></storeLink>
+			<hoursOnRecord>0.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/291550]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/291550/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>274190</appID>
+			<name><![CDATA[Broforce]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274190/c6728f33769caf6ea6b2a4421579d91fe3029eca.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/274190]]></storeLink>
+			<hoursOnRecord>1.7</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/274190]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/274190/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>225260</appID>
+			<name><![CDATA[Brütal Legend]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/225260/cc8b60ac1fa649c950ff7a9881b98709b8372f94.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/225260]]></storeLink>
+			<hoursOnRecord>2.0</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/BrutalLegend]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/BrutalLegend/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>10</appID>
+			<name><![CDATA[Counter-Strike]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/10/af890f848dd606ac2fd4415de3c3f5e7a66fcb9f.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/10]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/10]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/10/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>80</appID>
+			<name><![CDATA[Counter-Strike: Condition Zero]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/80/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/80]]></storeLink>
+		</game>
+		<game>
+			<appID>100</appID>
+			<name><![CDATA[Counter-Strike: Condition Zero Deleted Scenes]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/100/acdb28ba1b4c2fcc526332c1b63fc0f7533f087f.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/100]]></storeLink>
+		</game>
+		<game>
+			<appID>730</appID>
+			<name><![CDATA[Counter-Strike: Global Offensive]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/d0595ff02f5c79fd19b06f4d6165c3fda2372820.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/730]]></storeLink>
+			<hoursOnRecord>29.9</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/CSGO]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/CSGO/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>240</appID>
+			<name><![CDATA[Counter-Strike: Source]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/240/ee97d0dbf3e5d5d59e69dc20b98ed9dc8cad5283.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/240]]></storeLink>
+			<hoursOnRecord>5.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/CS:S]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/CS:S/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>280790</appID>
+			<name><![CDATA[Creativerse]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280790/f905b48047e6140429f408e0b197e77f88b6512e.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/280790]]></storeLink>
+			<hoursOnRecord>33.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/280790]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/280790/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>38830</appID>
+			<name><![CDATA[CrimeCraft GangWars]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/38830/27e918be8c67f5dd0b6708fb2181286021074b1a.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/38830]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/38830]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/38830/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>30</appID>
+			<name><![CDATA[Day of Defeat]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/30/beff21c4d29d2579e794c930bae599cd0c8a8f17.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/30]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/30]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/30/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>300</appID>
+			<name><![CDATA[Day of Defeat: Source]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/300/e3a4313690bd551495a88e1c01951eb26cec7611.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/300]]></storeLink>
+			<hoursOnRecord>0.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/DOD:S]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/DOD:S/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>284460</appID>
+			<name><![CDATA[DeadCore]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/284460/cfc9a6d858f1cdd1c6774be5514c3922d3b6caeb.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/284460]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/284460]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/284460/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>40</appID>
+			<name><![CDATA[Deathmatch Classic]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40/4bb69695ef9d0ae73e73488fb6456aa4ea1215fa.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/40]]></storeLink>
+		</game>
+		<game>
+			<appID>321040</appID>
+			<name><![CDATA[DiRT 3 Complete Edition]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/321040/bb89ef19777c30c8551b0f4eea296d6ca33007cc.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/321040]]></storeLink>
+			<hoursOnRecord>2.6</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/321040]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/321040/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>333930</appID>
+			<name><![CDATA[Dirty Bomb]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/333930/b0a7716d2f51f08e4dd173fa8dc38eebe4e357d5.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/333930]]></storeLink>
+			<hoursOnRecord>0.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/333930]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/333930/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>230050</appID>
+			<name><![CDATA[DLC Quest]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/230050/0dfb5f55501d52def13dea3a2987eee8781a5d7c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/230050]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/230050]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/230050/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>317360</appID>
+			<name><![CDATA[Double Action: Boogaloo]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/317360/9d629c6b8ee061779bb32c29f143ab57c0045b5c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/317360]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/317360]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/317360/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>220240</appID>
+			<name><![CDATA[Far Cry® 3]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220240/47811cc7821070306a24622b5d33c04c85264279.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/220240]]></storeLink>
+			<hoursOnRecord>2.0</hoursOnRecord>
+		</game>
+		<game>
+			<appID>224760</appID>
+			<name><![CDATA[FEZ]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/224760/d2789dc5fb6bfee4d07cd3ec06985593fffd606c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/224760]]></storeLink>
+			<hoursOnRecord>2.5</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/224760]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/224760/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>265630</appID>
+			<name><![CDATA[Fistful of Frags]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/265630/45ba88467785ebd77384e4b386abac1bfdad785b.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/265630]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/265630]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/265630/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>310380</appID>
+			<name><![CDATA[Fractured Space]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/310380/6fb7ce7701d0715e440b723b092afac35fb79024.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/310380]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/310380]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/310380/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>214420</appID>
+			<name><![CDATA[Gear Up]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214420/65861018dfcbf225bf5d3e68420c5787b6954c04.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/214420]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/GearUp]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/GearUp/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>206210</appID>
+			<name><![CDATA[Gotham City Impostors: Free To Play]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/206210/3590ca6e48449e7a69a9a51b31b6c74f2ac99825.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/206210]]></storeLink>
+			<hoursOnRecord>0.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/GothamCityImpostorsFreeToPlay]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/GothamCityImpostorsFreeToPlay/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>12250</appID>
+			<name><![CDATA[Grand Theft Auto: San Andreas]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12250/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/12250]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/12250]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/12250/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>12120</appID>
+			<name><![CDATA[Grand Theft Auto: San Andreas]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12120/32e2d1d2054295603724f30c81c3cf46dc6392c0.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/12120]]></storeLink>
+			<hoursOnRecord>0.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/12120]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/12120/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>12110</appID>
+			<name><![CDATA[Grand Theft Auto: Vice City]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12110/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/12110]]></storeLink>
+			<hoursOnRecord>6.6</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/12110]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/12110/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>12240</appID>
+			<name><![CDATA[Grand Theft Auto: Vice City]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12240/6ba37ecba052f89c72272dd28b2daa89087a7eb3.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/12240]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/12240]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/12240/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>12210</appID>
+			<name><![CDATA[Grand Theft Auto IV]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12210/47fb2a3e0763be24e49662591d6e076c58b2178d.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/12210]]></storeLink>
+			<hoursOnRecord>34.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/12210]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/12210/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>44350</appID>
+			<name><![CDATA[GRID 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/44350/059c8f0e1995b134f78deaf93b0a352db58ba0e1.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/44350]]></storeLink>
+			<hoursOnRecord>7.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/GRID2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/GRID2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>255220</appID>
+			<name><![CDATA[GRID Autosport]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/255220/c8ef54ffd81bf8d34b658bad3009ffbf91197093.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/255220]]></storeLink>
+			<hoursOnRecord>0.6</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/255220]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/255220/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>252150</appID>
+			<name><![CDATA[Grimm]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252150/33e422c461774efe02739b23aef8fd56a1df50f5.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/252150]]></storeLink>
+			<hoursOnRecord>0.5</hoursOnRecord>
+		</game>
+		<game>
+			<appID>70</appID>
+			<name><![CDATA[Half-Life]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/70/6bd76ff700a8c7a5460fbae3cf60cb930279897d.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/70]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/70]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/70/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>220</appID>
+			<name><![CDATA[Half-Life 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/220/e4ad9cf1b7dc8475c1118625daf9abd4bdcbcad0.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/220]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/HL2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/HL2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>320</appID>
+			<name><![CDATA[Half-Life 2: Deathmatch]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/320/6dd9f66771300f2252d411e50739a1ceae9e5b30.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/320]]></storeLink>
+			<hoursOnRecord>0.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/320]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/320/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>380</appID>
+			<name><![CDATA[Half-Life 2: Episode One]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/380/b5a666a961d8b39896887abbed3b78c2b837c238.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/380]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/HL2:EP1]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/HL2:EP1/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>420</appID>
+			<name><![CDATA[Half-Life 2: Episode Two]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/420/553e6a2e7a469dcbaada729baa1f5fd7764668df.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/420]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/HL2:EP2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/HL2:EP2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>340</appID>
+			<name><![CDATA[Half-Life 2: Lost Coast]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/340/867cce5c4f37d5ed4aeffb57c60e220ddffe4134.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/340]]></storeLink>
+		</game>
+		<game>
+			<appID>130</appID>
+			<name><![CDATA[Half-Life: Blue Shift]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/130/927d38e83e3e4ca218a0fc7b32515eeb99aa8ff7.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/130]]></storeLink>
+		</game>
+		<game>
+			<appID>50</appID>
+			<name><![CDATA[Half-Life: Opposing Force]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/50/bb696ddfd8f8ef0892d5f2154d8617528d3cc2ec.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/50]]></storeLink>
+		</game>
+		<game>
+			<appID>280</appID>
+			<name><![CDATA[Half-Life: Source]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/280/a612dd944b768e55389140298dcfda2165db8ced.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/280]]></storeLink>
+			<hoursOnRecord>0.8</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/280]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/280/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>360</appID>
+			<name><![CDATA[Half-Life Deathmatch: Source]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/360/9a5b7119d4e8977fffcd370d3c24036be7cee904.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/360]]></storeLink>
+		</game>
+		<game>
+			<appID>6880</appID>
+			<name><![CDATA[Just Cause]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/6880/60d726f5e078a6da168414cf45b8619973f6d69c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/6880]]></storeLink>
+		</game>
+		<game>
+			<appID>8190</appID>
+			<name><![CDATA[Just Cause 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/8190/26c2c027f835e968d78b212b4cc6438f692b027a.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/8190]]></storeLink>
+			<hoursOnRecord>0.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/JustCause2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/JustCause2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>500</appID>
+			<name><![CDATA[Left 4 Dead]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/500/0f67ee504d8f04ecd83986dd7855821dc21f7a78.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/500]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/L4D]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/L4D/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>550</appID>
+			<name><![CDATA[Left 4 Dead 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550/205863cc21e751a576d6fff851984b3170684142.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/550]]></storeLink>
+			<hoursOnRecord>3.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/L4D2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/L4D2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>48000</appID>
+			<name><![CDATA[LIMBO]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/48000/9f35c3d64649a5a03b69d6a9218b1f77caf15025.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/48000]]></storeLink>
+			<hoursOnRecord>0.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/LIMBO]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/LIMBO/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>50130</appID>
+			<name><![CDATA[Mafia II]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/50130/31c60ba32d7ff5b53b5d2a5795b42077279f499a.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/50130]]></storeLink>
+			<hoursOnRecord>2.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/MafiaII]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/MafiaII/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>214560</appID>
+			<name><![CDATA[Mark of the Ninja]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/214560/c20501309696e5bcda98e9e4f2649abc5720a1d1.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/214560]]></storeLink>
+			<hoursOnRecord>1.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/MarkoftheNinja]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/MarkoftheNinja/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>226320</appID>
+			<name><![CDATA[Marvel Heroes 2016]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/226320/00cce7e1297fcf3c434da1a5c3281f0ed76ab32d.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/226320]]></storeLink>
+			<hoursOnRecord>0.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/MarvelHeroes]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/MarvelHeroes/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>12140</appID>
+			<name><![CDATA[Max Payne]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12140/d8517c3e945349456294f450ac3fb1e53886cd5a.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/12140]]></storeLink>
+		</game>
+		<game>
+			<appID>12150</appID>
+			<name><![CDATA[Max Payne 2: The Fall of Max Payne]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/12150/0514b7ef8e2fd6b56a9511d791fe242a886351f6.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/12150]]></storeLink>
+		</game>
+		<game>
+			<appID>204100</appID>
+			<name><![CDATA[Max Payne 3]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/204100/135cf60686c2bf570999b96d5c29eb31e962293a.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/204100]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/MaxPayne3]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/MaxPayne3/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>311340</appID>
+			<name><![CDATA[METAL GEAR SOLID V: GROUND ZEROES]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/311340/a1dc6285cba9b17f37c8e1e341a747576f1e121c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/311340]]></storeLink>
+			<hoursOnRecord>1.8</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/311340]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/311340/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>366250</appID>
+			<name><![CDATA[METAL SLUG]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/366250/28d378e21177c472f48789c72e8c1a4567002bc5.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/366250]]></storeLink>
+			<hoursOnRecord>1.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/366250]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/366250/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>250180</appID>
+			<name><![CDATA[METAL SLUG 3]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250180/2f38a8238712afa7cacdd41031a114b35cf9b9db.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/250180]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/250180]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/250180/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>356310</appID>
+			<name><![CDATA[METAL SLUG DEFENSE]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/356310/28dca775eb34c6b5898297911dbf1b2032e5e454.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/356310]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/356310]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/356310/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>312610</appID>
+			<name><![CDATA[METAL SLUG X]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/312610/0aefb6b3c12d129be74b9efdcefd46a8f919dba2.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/312610]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/312610]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/312610/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>412470</appID>
+			<name><![CDATA[Metal War Online: Retribution]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/412470/162a8cb1a9d3d01c9e47450f3b3f48deee561047.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/412470]]></storeLink>
+		</game>
+		<game>
+			<appID>389570</appID>
+			<name><![CDATA[Mitos.is: The Game]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/389570/15cda5d8f004046dca3db8e40822192346524daa.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/389570]]></storeLink>
+		</game>
+		<game>
+			<appID>496920</appID>
+			<name><![CDATA[Moirai]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496920/58208004a1554d5ed00ead0c92dab483cf43c104.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/496920]]></storeLink>
+			<hoursOnRecord>0.2</hoursOnRecord>
+		</game>
+		<game>
+			<appID>295790</appID>
+			<name><![CDATA[Never Alone (Kisima Ingitchuna)]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/295790/d7e4cec47a01b6e913e495450be669c4997d0a17.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/295790]]></storeLink>
+			<hoursOnRecord>0.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/295790]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/295790/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>351740</appID>
+			<name><![CDATA[Never Alone: Original Soundtrack]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/351740/abbe78000003379d473c7ea68edddacb2a893891.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/351740]]></storeLink>
+		</game>
+		<game>
+			<appID>274270</appID>
+			<name><![CDATA[NOT A HERO]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/274270/36afb8a17a5cf3936cdbfffc4bd32bde482e1df2.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/274270]]></storeLink>
+			<hoursOnRecord>0.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/274270]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/274270/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>319480</appID>
+			<name><![CDATA[Odallus: The Dark Call]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/319480/787a50c5aa24a8b063b457380b05c6d2e10d4a18.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/319480]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/319480]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/319480/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>252010</appID>
+			<name><![CDATA[Oniken]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/252010/4c9df05bc9067830d3877934408983546cb95ac4.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/252010]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/252010]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/252010/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>475240</appID>
+			<name><![CDATA[ORCS]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/475240/af65850bc40d672ba44de6dbe60ef9f35d50e967.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/475240]]></storeLink>
+			<hoursOnRecord>0.7</hoursOnRecord>
+		</game>
+		<game>
+			<appID>261570</appID>
+			<name><![CDATA[Ori and the Blind Forest]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/261570/e8b71ff338698994bca662ec8e6cf930f2ddc98b.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/261570]]></storeLink>
+			<hoursOnRecord>1.8</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/261570]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/261570/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>218620</appID>
+			<name><![CDATA[PAYDAY 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218620/4467a70648f49a6b309b41b81b4531f9a20ed99d.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/218620]]></storeLink>
+			<hoursOnRecord>2.5</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/PAYDAY2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/PAYDAY2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>409670</appID>
+			<name><![CDATA[Pink Hour]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/409670/25ce19ba60be1539f3d627469c09737fbc03ddab.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/409670]]></storeLink>
+			<hoursOnRecord>0.1</hoursOnRecord>
+		</game>
+		<game>
+			<appID>314000</appID>
+			<name><![CDATA[Pool Nation FX]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/314000/f6c375630701591c27a1cad4b6cd4a26f336c151.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/314000]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/314000]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/314000/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>400</appID>
+			<name><![CDATA[Portal]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/400/4184d4c0d915bd3a45210667f7b25361352acd8f.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/400]]></storeLink>
+			<hoursOnRecord>8.5</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/Portal]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/Portal/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>620</appID>
+			<name><![CDATA[Portal 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/620/d2a1119ddc202fab81d9b87048f495cbd6377502.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/620]]></storeLink>
+			<hoursOnRecord>29.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/Portal2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/Portal2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>247120</appID>
+			<name><![CDATA[Portal 2 Sixense Perceptual Pack]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/247120/e1e9abe7020043da9c2458a22565a262071af460.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/247120]]></storeLink>
+		</game>
+		<game>
+			<appID>3830</appID>
+			<name><![CDATA[Psychonauts]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3830/b361ab26b2c47d4abd11be0ebd3d6b675512ec1b.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/3830]]></storeLink>
+			<hoursOnRecord>2.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/PsychoNauts]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/PsychoNauts/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>3840</appID>
+			<name><![CDATA[Psychonauts Demo]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3840/17381fadfb9ddb04d9ba4fbebe0129de2c99af34.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/3840]]></storeLink>
+		</game>
+		<game>
+			<appID>211500</appID>
+			<name><![CDATA[RaceRoom Racing Experience ]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/211500/5a9c89c56ea9ac16f4ecd45693a9fe532e3225cb.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/211500]]></storeLink>
+			<hoursOnRecord>0.6</hoursOnRecord>
+		</game>
+		<game>
+			<appID>298240</appID>
+			<name><![CDATA[Red Crucible: Firestorm]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/298240/d3ed71dc06af336531a2d06233ff0c00e5c14ec5.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/298240]]></storeLink>
+			<hoursOnRecord>0.4</hoursOnRecord>
+		</game>
+		<game>
+			<appID>382490</appID>
+			<name><![CDATA[Relic Hunters Zero]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/382490/afefea98ff30bd3c5e1705f4f350de9a063b84d2.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/382490]]></storeLink>
+			<hoursOnRecord>1.0</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/382490]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/382490/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>60</appID>
+			<name><![CDATA[Ricochet]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/60/f7a039402735c2dea82cbd412340873535e2be4c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/60]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/60]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/60/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>241600</appID>
+			<name><![CDATA[Rogue Legacy]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/241600/c591f688add1e008d5d92e82b9d9fa2332e20491.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/241600]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/241600]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/241600/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>55230</appID>
+			<name><![CDATA[Saints Row: The Third]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/55230/1129528455a8b297fb6404cbb90e802a62881b11.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/55230]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/SaintsRowTheThird]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/SaintsRowTheThird/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>295490</appID>
+			<name><![CDATA[Schrödinger's Cat and the Raiders of the Lost Quark]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/295490/08eb58cc8e6429c32b077b5fca2c984fcff40453.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/295490]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/295490]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/295490/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>34270</appID>
+			<name><![CDATA[SEGA Mega Drive & Genesis Classics]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/34270/212f55b3ea1a8c70427890896e93a37b49f57187.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/34270]]></storeLink>
+			<hoursOnRecord>3.1</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/34270]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/34270/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>204340</appID>
+			<name><![CDATA[Serious Sam 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/204340/cce069d1fb366a520e394d414366d4fa860d70a3.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/204340]]></storeLink>
+			<hoursOnRecord>0.4</hoursOnRecord>
+		</game>
+		<game>
+			<appID>50300</appID>
+			<name><![CDATA[Spec Ops: The Line]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/50300/e449c7dc5a9861cf94476de1b394640f3866ddda.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/50300]]></storeLink>
+			<hoursOnRecord>5.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/SpecOpsTheLine]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/SpecOpsTheLine/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>17390</appID>
+			<name><![CDATA[Spore]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/17390/75a96828a453586042ec4231e617070bc2f35625.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/17390]]></storeLink>
+		</game>
+		<game>
+			<appID>212070</appID>
+			<name><![CDATA[Star Conflict]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212070/78d5f3053bb1854258a9202324f9d37bca60a6d0.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/212070]]></storeLink>
+			<hoursOnRecord>0.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/StarConflict]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/StarConflict/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>209190</appID>
+			<name><![CDATA[Stealth Bastard Deluxe]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209190/ace19954ffdbb6678481f3fa99e3a1f5087b400b.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/209190]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/StealthBastardDeluxe]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/StealthBastardDeluxe/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212800</appID>
+			<name><![CDATA[Super Crate Box]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/212800/edf3078d2b45a2d3520ac0375cc6875ec126ae81.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/212800]]></storeLink>
+			<hoursOnRecord>0.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/SuperCrateBox]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/SuperCrateBox/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>40800</appID>
+			<name><![CDATA[Super Meat Boy]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/40800/70f084857297d5fdd96d019db3a990d6d9ec64f1.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/40800]]></storeLink>
+			<hoursOnRecord>0.9</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/SuperMeatBoy]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/SuperMeatBoy/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>440</appID>
+			<name><![CDATA[Team Fortress 2]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/440/07385eb55b5ba974aebbe74d3c99626bda7920b8.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/440]]></storeLink>
+			<hoursOnRecord>0.4</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/TF2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/TF2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>20</appID>
+			<name><![CDATA[Team Fortress Classic]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/20/515bc393c861d91b9165f0697040c015f50bcb5e.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/20]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/20]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/20/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>221810</appID>
+			<name><![CDATA[The Cave]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221810/acc11ba3303f4c706adccc75a1ee4fe28dc52727.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/221810]]></storeLink>
+			<hoursOnRecord>0.6</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/221810]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/221810/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>312990</appID>
+			<name><![CDATA[The Expendabros]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/312990/2f79038df0cb083412a603adcf933a082698a1b7.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/312990]]></storeLink>
+			<hoursOnRecord>2.2</hoursOnRecord>
+		</game>
+		<game>
+			<appID>221910</appID>
+			<name><![CDATA[The Stanley Parable]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/221910/80de64fedc906c4d81123e7ddc1d61d39183ab2d.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/221910]]></storeLink>
+			<hoursOnRecord>1.2</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/221910]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/221910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>257510</appID>
+			<name><![CDATA[The Talos Principle]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/257510/0392d2bd5d1bec31f2fd283bc4555fdc22dd44a9.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/257510]]></storeLink>
+			<hoursOnRecord>5.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/257510]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/257510/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>20920</appID>
+			<name><![CDATA[The Witcher 2: Assassins of Kings Enhanced Edition]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/20920/f0274a91931ed39f7c69dca9f907ceae6450785c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/20920]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/TheWitcher2]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/TheWitcher2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>20900</appID>
+			<name><![CDATA[The Witcher: Enhanced Edition]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/20900/d37dedbc4104d1683385d022314d1316399b3dce.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/20900]]></storeLink>
+		</game>
+		<game>
+			<appID>243870</appID>
+			<name><![CDATA[Tom Clancy's Ghost Recon Phantoms - NA]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/243870/e6d16e51104bc385e99ff6b14f5fb016c813590d.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/243870]]></storeLink>
+		</game>
+		<game>
+			<appID>304930</appID>
+			<name><![CDATA[Unturned]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/304930/32b7ea686e0fb11e24008e4dab179a40a6b2eb09.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/304930]]></storeLink>
+			<hoursOnRecord>0.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/304930]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/304930/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>247240</appID>
+			<name><![CDATA[Volgarr the Viking]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/247240/94be1374c439b473e5d201bba71a05c9b90e1f8c.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/247240]]></storeLink>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/247240]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/247240/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>236390</appID>
+			<name><![CDATA[War Thunder]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/236390/219b91aa76b2c6325b763af5e4ad411fab535bf9.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/236390]]></storeLink>
+			<hoursOnRecord>0.3</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/WarThunder]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/WarThunder/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>470450</appID>
+			<name><![CDATA[Where's My Helmet?]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/470450/83710103bfdc76ba9fab294b74059b26c835fdcd.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/470450]]></storeLink>
+		</game>
+		<game>
+			<appID>393410</appID>
+			<name><![CDATA[World of Soccer online]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/393410/05c3fe830e2c16c4be7e0e136a0884ac9164cdca.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/393410]]></storeLink>
+			<hoursOnRecord>0.4</hoursOnRecord>
+		</game>
+		<game>
+			<appID>286100</appID>
+			<name><![CDATA[You Have to Win the Game]]></name>
+			<logo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/286100/bb0e5d132bbfa7864e2fd94beb8f8a862db6d88e.jpg]]></logo>
+			<storeLink><![CDATA[http://steamcommunity.com/app/286100]]></storeLink>
+			<hoursOnRecord>0.7</hoursOnRecord>
+			<statsLink><![CDATA[http://steamcommunity.com/id/calebenovequatro/stats/286100]]></statsLink>
+			<globalStatsLink><![CDATA[http://steamcommunity.com/stats/286100/achievements/]]></globalStatsLink>
+		</game>
+	</games>
+</gamesList>
