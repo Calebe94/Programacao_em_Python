@@ -1,10 +1,14 @@
 import xml.etree.ElementTree as ET
-tree = ET.parse('/home/calebe94/Projetos/Programacao_em_Python/country_data.xml')
+tree = ET.parse('/home/calebe945/Projetos/Programacao_em_Python/library_games.xml')
 root = tree.getroot()
-#for child in root:
-#     print(child.tag, child.attrib)
+for child in root:
+     print(child.tag)
+count = 0
+for game in root.iter('game'):
+	print(game.find('name').text,game.find('appID').text)
+	count=count+1
+
+print(count)
 #deu certo
-for country in root.findall('country'):
-     rank = country.find('rank').text
-     name = country.get('name')
-     print(name, rank)
+#print(root.tag)
+#print(root.attrib)
