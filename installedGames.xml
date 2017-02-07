@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<installedGames>
+  <steamID>Calebe94</steamID>
+  <vanityURL>calebenovequatro</vanityURL>
+  <games>
+    <game>
+      <appID>APP_ID</appID>
+      <name>NAME</name>
+      <logo>URL</logo>
+    </game>
+  </games>
+</installedGames>

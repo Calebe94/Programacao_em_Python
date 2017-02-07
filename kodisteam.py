@@ -61,11 +61,11 @@ def getInstalledGames_wine(path):
         if file.endswith(".acf"):
             appID = getAppID(file)
             header = "http://cdn.edgecast.steamstatic.com/steam/apps/%s/header.jpg"%appID
-            AUX_WINE.setdefault('WINE',[]).append({'name':getName(appID),'appID':appID,'logo':header})
-            """AUX_DICT.setdefault('name',[]).append({'name':getName(appID)})
-            AUX_DICT.setdefault('appID',[]).append({'appID':appID})
+            #AUX_WINE.setdefault('WINE',[]).append({'name':getName(appID),'appID':appID,'logo':header})
+            AUX_WINE.setdefault('name',[]).append({'name':getName(appID)})
+            AUX_WINE.setdefault('appID',[]).append({'appID':appID})
             header = "http://cdn.edgecast.steamstatic.com/steam/apps/%s/header.jpg"%appID
-            AUX_DICT.setdefault('header',[]).append({'header':header})"""
+            AUX_WINE.setdefault('header',[]).append({'header':header})
     return AUX_WINE
 
 def getInstalledGames_linux(path):
@@ -74,11 +74,11 @@ def getInstalledGames_linux(path):
         if file.endswith(".acf"):
             appID = getAppID(file)
             header = "http://cdn.edgecast.steamstatic.com/steam/apps/%s/header.jpg"%appID
-            AUX_LINUX.setdefault('LINUX',[]).append({'name':getName(appID),'appID':appID,'logo':header})
-            """AUX_DICT.setdefault('name',[]).append({'name':getName(appID)})
-            AUX_DICT.setdefault('appID',[]).append({'appID':appID})
+            #AUX_LINUX.setdefault('LINUX',[]).append({'name':getName(appID),'appID':appID,'logo':header})
+            AUX_LINUX.setdefault('name',[]).append({'name':getName(appID)})
+            AUX_LINUX.setdefault('appID',[]).append({'appID':appID})
             header = "http://cdn.edgecast.steamstatic.com/steam/apps/%s/header.jpg"%appID
-            AUX_DICT.setdefault('header',[]).append({'header':header})"""
+            AUX_LINUX.setdefault('header',[]).append({'header':header})
     return AUX_LINUX
 
 def getOwnedGames(steamid):
@@ -88,7 +88,10 @@ def getOwnedGames(steamid):
     
     Owned=dict()
     for game in root.iter('game'):
-	    Owned.setdefault('OWNED',[]).append({'name':game.find('name').text,'appID':game.find('appID').text,'logo':game.find('logo').text})
+	    #Owned.setdefault('OWNED',[]).append({'name':game.find('name').text,'appID':game.find('appID').text,'logo':game.find('logo').text})
+        Owned.setdefault('name',[]).append({'name':game.find('name').text})
+        Owned.setdefault('appID',[]).append({'appID':game.find('appID').text})
+        Owned.setdefault('logo',[]).append({'logo':game.find('logo').text})
     return Owned
 
 """ We must open the config file and get the Steam public ID, and get the full paths to  Steam_Linux and Stem_Wine"""
@@ -134,6 +137,7 @@ print(getName(search_appID))
 print("Aqui inicia Outro Teste!")
 print("Teste com Dicionário com as seguintes chaves")
 print("OWNED,WINE,LINUX")
+"""
 TESTE = dict()
 TESTE.setdefault('OWNED',[])
 TESTE.setdefault('WINE',[])
@@ -143,4 +147,23 @@ TESTE['WINE']=getInstalledGames_wine(STEAM_WINE_PATH)
 TESTE['LINUX']=getInstalledGames_linux(STEAM_LINUX_PATH)
 print("JOGOS WINE",TESTE['WINE'])
 print("JOGOS LINUX",TESTE['LINUX'])
-#print("TODOS OS JOGOS",TESTE['OWNED'])
+"""
+VIDEOS=dict()
+VIDEOS.setdefault("OWNED",[])
+VIDEOS['OWNED'] = getOwnedGames("calebenovequatro")
+VIDEOS.setdefault("WINE",[])
+VIDEOS['WINE'] = getInstalledGames_wine(STEAM_WINE_PATH)
+VIDEOS.setdefault("LINUX",[])
+VIDEOS['LINUX'] = getInstalledGames_linux(STEAM_LINUX_PATH)
+"""
+VIDEOS = getOwnedGames("calebenovequatro")
+VIDEOS = getInstalledGames_wine(STEAM_WINE_PATH)
+VIDEOS = getInstalledGames_linux(STEAM_LINUX_PATH)
+"""
+print(VIDEOS['WINE'].keys())
+TESTE = dict()
+TESTE = VIDEOS['OWNED']
+print(TESTE.keys())
+print(TESTE['appID'][1]['appID'])
+print("Numero de Jogos:",len(VIDEOS['OWNED']['appID']))
+print(getName('200900'))
